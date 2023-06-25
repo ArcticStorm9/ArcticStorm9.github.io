@@ -1,13 +1,13 @@
 <script lang="ts">
   const itinerary = [
     ["Sun, March 10", "Arrive in Tokyo"],
-    ["Mon, March 11", "Ian busy all day"],
+    ["Mon, March 11", "Ian busy until the evening"],
     ["Tue, March 12", "Asakusa, Tokyo Sky Tree"],
     ["Wed, March 13", "Tokyo DisneySea"],
-    ["Thu, March 14", "Meiji-Jingu, Shibuya"],
-    ["Fri, March 15", ""],
-    ["Sat, March 16", "Wedding in Nagoya"],
-    ["Sun, March 17", ""],
+    ["Thu, March 14", "Free day (optional: Tokyo Disneyland)"],
+    ["Fri, March 15", "Meiji-Jingu, Harajuku, Shibuya"],
+    ["Sat, March 16", "Travel to, and have Wedding in Nagoya"],
+    ["Sun, March 17", "Go home (departing from Tokyo)"],
   ];
 </script>
 
