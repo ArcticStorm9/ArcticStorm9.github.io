@@ -8,7 +8,7 @@
     ["Wed, March 13", "Tokyo DisneySea"],
     ["Thu, March 14", "Free day (optional: Tokyo Disneyland)"],
     ["Fri, March 15", "Meiji-Jingu, Harajuku, Shibuya"],
-    ["Sat, March 16", "Travel to, and have Wedding in Nagoya"],
+    ["Sat, March 16", "Wedding in Nagoya at 2pm (tentative) with reception party at 6pm (tentative)"],
     ["Sun, March 17", "Go home (departing from Tokyo)"],
   ];
 </script>
