@@ -20,6 +20,7 @@
   title="Wedding Trip Itinerary"
   description="The following is a list of all activities we plan on doing. Guests are welcome to split off and find their own activities."
 >
+  <p class="text-center">Group accommodations will be in Shinjuku. <a href="mailto:irshakes11@gmail.com" class="underline">Email me</a> for more information regarding the rental.</p>
   <table>
     <tr class="text-left font-semibold">
       <th class="p-2">Date</th>
