@@ -1,6 +1,6 @@
 <script lang="ts">
   import { base } from "$app/paths";
-  import NavigationDirectory from "../lib/components/shared/NavigationDirectory.svelte";
+  import NavigationDirectory from "$lib/components/shared/NavigationDirectory.svelte";
 
   const paths = [
     ["Wedding Information", "/wedding"],
