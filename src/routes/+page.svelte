@@ -5,6 +5,7 @@
   const paths = [
     ["Wedding Information", "/wedding"],
     ["D&D Resources", "/dnd"],
+    ["Calorie Tracker", "/calorie-tracker"]
   ];
 </script>
 
