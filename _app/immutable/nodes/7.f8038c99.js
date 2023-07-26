@@ -1,4 +1,4 @@
-import{s as $,n as y}from"../chunks/scheduler.e108d1fd.js";import{S as v,i as b,s as h,r as x,y as w,f as l,c as _,u as C,a as u,v as S,d as P,t as T,w as k,g as p,h as d,z as f}from"../chunks/index.2c788b53.js";import{I as A}from"../chunks/InfoPage.49b2f0e3.js";function I(c){let t,o=`Aside from groomsmen (and Summer/Kevin), you're responsible for finding
+import{s as $,n as y}from"../chunks/scheduler.e108d1fd.js";import{S as v,i as b,s as h,r as x,y as w,f as l,c as _,u as C,a as u,v as S,d as P,t as T,w as k,g as p,h as d,z as f}from"../chunks/index.bbcc9712.js";import{I as A}from"../chunks/InfoPage.12623d3a.js";function I(c){let t,o=`Aside from groomsmen (and Summer/Kevin), you're responsible for finding
     your own accommodations. That being said, it may be useful to stay near
     us should you plan on spending time with the group. We're planning on
     staying in Shinjuku. We have not yet made any reservations, but are eyeing
