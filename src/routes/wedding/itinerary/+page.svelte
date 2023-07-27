@@ -2,6 +2,7 @@
   import InfoPage from "$lib/components/shared/InfoPage.svelte";
 
   const itinerary = [
+    ["Sat, March 9", "Depart USA"]
     ["Sun, March 10", "Arrive in Tokyo"],
     ["Mon, March 11", "Ian busy until the evening"],
     ["Tue, March 12", "Asakusa, Tokyo Sky Tree"],
