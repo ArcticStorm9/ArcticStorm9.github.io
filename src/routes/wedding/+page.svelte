@@ -5,7 +5,7 @@
   const paths = [
     ["Itinerary", "/itinerary"],
     ["Flights", "/flights"],
-    ["Accommodations", "/accommodations"],
+    ["Packing and Prepping", "/packing"],
   ];
 </script>
 
